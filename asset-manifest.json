@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ken-sy/static/css/main.63d7ea03.css",
+    "main.js": "/Ken-sy/static/js/main.091ad3c5.js",
+    "static/js/787.7ace64b0.chunk.js": "/Ken-sy/static/js/787.7ace64b0.chunk.js",
+    "static/media/gif": "/Ken-sy/static/media/ce46f26726b0fe01fabc2415d04ebd90.acb5dcfd8db75b7bcf8e.gif",
+    "index.html": "/Ken-sy/index.html",
+    "main.63d7ea03.css.map": "/Ken-sy/static/css/main.63d7ea03.css.map",
+    "main.091ad3c5.js.map": "/Ken-sy/static/js/main.091ad3c5.js.map",
+    "787.7ace64b0.chunk.js.map": "/Ken-sy/static/js/787.7ace64b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d7ea03.css",
+    "static/js/main.091ad3c5.js"
+  ]
+}
